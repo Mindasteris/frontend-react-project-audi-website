@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/* Audi Extended Bold */
+@font-face {
+    font-family: audi_bold;
+    src: url('./fonts/Audi/AudiType_TrueType/AudiType-ExtendedBold_4.03.ttf');
+}
+
+/* Audi Extended Normal */
+@font-face {
+    font-family: audi_normal;
+    src: url('./fonts/Audi/AudiType_TrueType/AudiType-ExtendedNormal_4.03.ttf');
+}
