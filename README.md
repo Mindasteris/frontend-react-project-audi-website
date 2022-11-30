@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+# Instructions
+* In project directory run command "npm install" if command throws an error, please run other command "npm install --legacy-peer-deps".
+* After that run comman "npm start" to start a project.
+
+
+# React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
