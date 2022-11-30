@@ -1,6 +1,6 @@
 # Instructions
 * In project directory run command "npm install" if command throws an error, please run other command "npm install --legacy-peer-deps".
-* After that run command "npm start" to start a project.
+* After that run command "npm start" to start  project.
 
 
 # Getting Started with Create React App
